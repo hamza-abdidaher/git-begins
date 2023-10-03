@@ -1,0 +1,7 @@
+# cloner un referenciel
+git clone
+
+# les 3 commandes de push
+git add 
+git commit 
+git push
